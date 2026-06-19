@@ -1,4 +1,4 @@
-# machine_learn_0401
+# Regressão Logística
 
 Projeto que apresenta a implementação de um modelo de **Regressão Logística** desenvolvido do zero (from scratch) para resolver um problema de classificação binária: a predição de sobreviventes do desastre do Titanic.
 
